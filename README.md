@@ -15,5 +15,5 @@ An interactive dashboard showcasing:
 - `PBIX` Power BI file for editing/viewing
 - `PDF` version for preview
 
-## 🧑‍💻 Created by Vineela (Minni)
-**Aspiring Data Analyst | Power BI Projects | Swag & Skills**
+## 🧑‍💻 Created by Vineela Mekarthi
+**Aspiring Data Analyst | Power BI Projects**
